@@ -1,5 +1,5 @@
 ---
 title: "[User Interface Design](https://www.behance.net/yaoeh)"
-excerpt: "3 designs for 3 clients"
+excerpt: "Three different designs for three different clients"
 collection: portfolio
 ---

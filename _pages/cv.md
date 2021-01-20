@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Arch. in Architecture, University of Southern California, 2017
 * Ph.D in Computer Engineering, University of Virginia, 2022 (expected)
+* B.Arch. in Architecture (minor in Applied Computer Security), University of Southern California, 2017
 
 Work experience
 ======
@@ -34,5 +34,5 @@ Publications
 
 Service and leadership
 ======
-* VISAS
+* VISAS: English Language Volunteering 
 * Link Lab Committee on Culture and Livability
