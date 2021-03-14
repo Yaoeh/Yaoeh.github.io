@@ -6,7 +6,7 @@ permalink: /53994e1e62801431aa34f8ceade5404c/
 ---
 ## Relevant Projects
 
-I have done past projects in Revit, Unity, Maya, as well as Rhino. Additionally I have done projects on user interface design and sensors and signal processing. I also have developed software projects and systems that involve multiple languages/ interfaces
+I have done past projects in Revit, Unity, Maya, as well as Rhino. Additionally I have done projects on user interface design and sensors and signal processing. I also have developed software projects and systems that involve multiple languages/ interfaces, which could be relevant to the internship. I've compiled a list of relevant projects to demonstrate my skillset:
 
   * [Revit (Dynamo)](http://www-scf.usc.edu/~alanwang/revit.html){:target="_blank"} Not unlike Rhino, grasshopper, I have done projects to generate sheets as well as programmatically interoperate between Rhino and Revit.
   * [Unity (C#)](http://yaoeh.github.io/alanwang/portfolio/portfolio-2-game/){:target="_blank"} Published a handful of games. In relevance, knows about scene transitions, animation timeline, and serialization workflows.
