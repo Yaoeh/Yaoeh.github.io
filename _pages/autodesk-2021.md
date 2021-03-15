@@ -17,4 +17,4 @@ I have done past projects in Revit, Unity, Maya, as well as Rhino. Additionally 
 * [Enterprise Network Design](http://www-scf.usc.edu/~alanwang/enterpriseNetworking.html){:target="_blank"} background could help with interfacing between software as well as computers in the network.
 * [User Interface Design](https://www.behance.net/yaoeh){:target="_blank"} could be relevant to the proposed project.
 
-![Unity Virtual Environment Example](http://yaoeh.github.io/alanwang/assets/img/unity_demo_2_agents.png)
+![Unity Virtual Environment Example](http://yaoeh.github.io/alanwang/assets/img/robotics_image.jpg)
