@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alan Wang"
-  avatar           : "https://gist.githubusercontent.com/yaoeh/8fe38bfa55ef2088ad8443bc952c4213/raw/c7c11ca610cc7ea293818ab0140c6a814967ca68/headshot.jpg"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. Student at Univerisity of Virginia"
   location         : "Charlottesville"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alan-wang/"
   orcid            : "https://orcid.org/0000-0001-6926-4336"
   pinterest        :
   soundcloud       :

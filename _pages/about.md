@@ -15,4 +15,6 @@ redirect_from:
 
 * Alan received his B.Arch. from the University of Southern California with a minor in Applied Computer Security.
 
+* [Alan's Resume](https://drive.google.com/file/d/1AxAUwedBB1yqnDAfCvIpJBlpdFBG1jLT/view)
+
 * [Alan's CV](/assets/pdf/wang_cv.pdf)
