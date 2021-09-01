@@ -17,4 +17,4 @@ redirect_from:
 
 * [Alan's Resume](https://drive.google.com/file/d/1AxAUwedBB1yqnDAfCvIpJBlpdFBG1jLT/view)
 
-* [Alan's CV](/file/wang_cv.pdf)
+* [Alan's CV](/files/wang_cv.pdf)
